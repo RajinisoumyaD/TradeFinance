@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.5.0'
+    implementation 'com.google.code.gson:gson:2.10'
+}
+
+application {
+    mainClass = 'org.hyperledger.fabric.contract.ContractRouter'
+}
