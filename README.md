@@ -67,8 +67,10 @@ This project is licensed under the MIT License.
 
 ---
 
-✨ Author
+## ✨ Author
+
 Rajinisoumya D
+
 Blockchain Developer | Web3 Enthusiast
 
 
