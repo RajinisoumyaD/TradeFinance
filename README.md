@@ -49,14 +49,18 @@ TradeFinance/
 | `LocDate.java`              | Utility class to handle LoC-related date formatting and comparisons    |
 | `Utils.java`                | JSON (de)serialization using Gson                                      |
 
+---
 
 
 🤝 Participants
 
--Buyer
--Seller
--Buyer's Bank
--Seller's Bank
+**-Buyer
+
+**-Seller
+
+**-Buyer's Bank
+
+**-Seller's Bank
 
 Each party interacts through transactions defined in the smart contract.
 
@@ -73,5 +77,5 @@ Rajinisoumya D
 
 Blockchain Developer | Web3 Enthusiast
 
-
+---
 
